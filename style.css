@@ -1,3 +1,23 @@
-.header {
-    
+body {
+    font-family: Helvetica;
 }
+
+.header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("images/pattern.webp");
+}
+
+.divider {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.blue {
+    font-weight: bold;
+    color: blue;
+}
+
